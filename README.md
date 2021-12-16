@@ -1,7 +1,6 @@
 # Restaurant Reservation System
 
 Link to deployed application:
-https://akrestaurantfront.herokuapp.com/dashboard
 
 What it does:
 This application allows you to see what reservations exist and which tables are free and which are occupied at a glance.  The easy interface allows you to quickly take a reservation for a new party and search for reservations using the search page.
