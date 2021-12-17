@@ -47,5 +47,8 @@
   },
   "keywords": [],
   "author": "Beau Hale",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
 }
