@@ -5,7 +5,7 @@
   "main": "src/server.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Thinkful-Ed/starter-restaurant-reservation",
+    "url": "https://github.com/halebeau/restuarant-reservation-app",
     "directory": "/back-end"
   },
   "scripts": {
