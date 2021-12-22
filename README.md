@@ -1,5 +1,5 @@
 # Restaurant Reservation App
-Live site: https://rest-front-beau.herokuapp.com
+Live site: https://bhrestaurantfront.herokuapp.com/
 
 ## Description
 For this project, I created an application for restaurants to allows users to create, update, view, delete reservations, as well as seat them at varius tables within the restaurant.
